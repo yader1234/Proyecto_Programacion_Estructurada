@@ -1,4 +1,3 @@
-
 #include <iostream>
 int main(){
 
@@ -38,6 +37,27 @@ do {
 			
 				break;
 				system("cls");
+			case 5:
+				system("cls");
+			
+				break;
+				system("cls");
+			case 6:
+				system("cls");
+			
+				break;
+				system("cls");
+			case 7:
+				system("cls");
+			
+				break;
+				system("cls");
+			case 8:
+				system("cls");
+			std::cout<<"saliendo....";
+			
+			break;
+				
 			default:
 				std::cout<<"opcion no valida ingrese otra: ";
 				break;
